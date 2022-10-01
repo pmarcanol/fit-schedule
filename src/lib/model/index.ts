@@ -1,5 +1,5 @@
 import type { Exercise } from "./exercise";
-import type { Routine, RoutineExercise } from "./routine";
+import type { Routine, RoutineExercise, Serie } from "./routine";
 import type { TrainingSession } from "./trainingSession";
 
 export {
@@ -7,4 +7,5 @@ export {
     Routine,
     RoutineExercise,
     TrainingSession,
+    Serie
 }
